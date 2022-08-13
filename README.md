@@ -1,2 +1,3 @@
 # password_generator
 We know that passwords are a real security threat. To keep your account safe and prevent your password from being hacked you have to make your password hard enough that nobody can guess.  Password Generator It is a tool that generates passwords based on the given guidelines that you set to create an unpredictable strong password for your accounts.  The Password generator tool creates a random and customized password for users that helps them to create a strong password which provides greater security
+In this project manual or random username and password of fixed length will generate and saved in txt file which contain website name , username and password which help user to dont remember for username and password. 
